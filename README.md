@@ -21,6 +21,8 @@ Esta es una prueba técnica realizada con Java, Spring boot, JavaScript y SQl
 # Se debe importar la collection de postman
 -Ahí encontraran todas las apis con las urls del BackEnd para su validación.
 
+# En los archivos del proyecto está un vídeo de funcionamiento 
+
 
 
 
